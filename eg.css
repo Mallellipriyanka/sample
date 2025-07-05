@@ -1,0 +1,16 @@
+.container{
+    width: 80px;
+    border: 1px solid black;
+    height: 500px;
+}
+.place1{
+    width: 300px;
+    height: 450px;
+    border: 2px solid black;
+}
+.place2{
+    width: 300px;
+    height: 450px;
+    border: 2px solid black;
+
+}
